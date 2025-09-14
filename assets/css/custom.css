@@ -26,8 +26,8 @@
 
 /* ===== Fonts (site-wide) ===== */
 :root {
-        --font-body: "Literata", Georgia, "Times New Roman", serif;
-        --font-head: "Literata", Georgia, "Times New Roman", serif;
+        --font-body: "Playfair Display", Georgia, "Times New Roman", serif;
+        --font-head: "Playfair Display", Georgia, "Times New Roman", serif;
 }
 
 /* Ensure author info uses Literata */
