@@ -84,3 +84,16 @@ h1, h2, h3, h4, h5, h6,
 .greedy-nav .page-link {
     font-weight: normal !important;
 }
+
+/* Nuke the masthead site title everywhere */
+.masthead .site-title,
+.greedy-nav > a.site-title,
+#site-nav .site-title {
+  display: none !important;
+}
+
+/* Pull the menu all the way to the left (no gap where the title was) */
+.greedy-nav .visible-links {
+  margin-left: 0 !important;
+  justify-content: flex-start;
+}
