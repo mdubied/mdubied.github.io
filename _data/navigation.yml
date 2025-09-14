@@ -14,7 +14,7 @@ main:
   - title: "publications"
     url: /publications/
   - title: "cv"
-    url: /files/paper1.pdf
+    url: /cv/
     external: true
   - title: "other projects"
     url: /other-projects/
