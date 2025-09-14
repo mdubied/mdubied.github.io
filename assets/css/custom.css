@@ -1,25 +1,38 @@
-/* Make the author avatar rectangular + tidy up spacing */
-.author__avatar,
-.author__avatar img {
-  border-radius: 0 !important;          /* remove circle mask */
+/* Rectangular avatar in the sidebar */
+.author__avatar {
+  max-width: 240px;             /* control size */
+  margin: 0 auto 1rem auto;     /* center in the sidebar */
+  position: relative;
+  z-index: 1;
+  border-radius: 0 !important;  /* rectangular */
   box-shadow: none !important;
 }
 
 .author__avatar img {
-  width: 100%;
-  height: auto;                          /* keep proportions */
-  object-fit: cover;                     /* fill container nicely */
+  display: block;
+  width: 100%;                  /* fill only the avatar box */
+  height: auto;                  /* preserve aspect ratio */
+  object-fit: cover;             /* crop if needed */
+  border-radius: 0 !important;
+  box-shadow: none !important;
 }
+
 
 /* Optional: slightly narrower sidebar for a clean look */
 .sidebar {
-  max-width: 240px;
+    max-width: 240px;
+    position: relative;
 }
 
 /* ===== Fonts (site-wide) ===== */
 :root {
-    --font-body: "Literata", Georgia, "Times New Roman", serif;
-    --font-head: "Literata", Georgia, "Times New Roman", serif;
+        --font-body: "Literata", Georgia, "Times New Roman", serif;
+        --font-head: "Literata", Georgia, "Times New Roman", serif;
+}
+
+/* Ensure author info uses Literata */
+.author__info {
+        font-family: var(--font-body);
 }
 
 /* Ensure menu banner uses Literata */
@@ -27,7 +40,7 @@
 .masthead a.site-title,
 .site-nav .page-link,
 .greedy-nav a {
-    font-family: var(--font-head);
+        font-family: var(--font-head);
 }
 
 /* Body and headings */
@@ -47,32 +60,11 @@ h1, h2, h3, h4, h5, h6,
 .author__name,
 .author__bio { font-family: var(--font-body); }
 
-/* ===== Avatar: rectangular + no overlap ===== */
-.author__avatar { 
-  width: 100%;
-  max-width: 240px;             /* prevent huge images in sidebar */
-  margin: 0 0 1rem 0;
-  position: relative;
-  z-index: 1;
-}
-.author__avatar img {
-  display: block;
-  width: 100%;
-  height: auto;                  /* keep natural aspect */
-  object-fit: cover;             /* crop nicely if container is constrained */
-  border-radius: 0 !important;   /* rectangular */
-  box-shadow: none !important;
-}
-
 /* Ensure main content doesn't sit under the avatar on small screens */
 .page__content { position: relative; z-index: 0; clear: both; }
-
-/* If your layout uses a sticky sidebar, keep it sane */
-.sidebar { position: relative; }
 
 /* ===== Optional: nav coloring (leave as theme default) ===== */
 /* Uncomment to make nav links black as well
 .masthead, .greedy-nav a, .site-nav .page-link { color: #000; }
 .greedy-nav a:hover, .site-nav .page-link:hover { color: #444; }
 */
-
