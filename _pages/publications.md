@@ -17,7 +17,7 @@ My publications can be found on my <a href="https://scholar.google.com/citations
 
 ---
 
-## under Review
+## under review
 
 - **M. Dubied**, A. Lahr, M. Zeilinger, J. Köhler. July 2025. *A Robust and Adaptive MPC Formulation for Gaussian Process Models*. Submitted to Automatica and available on arXiv.
 
