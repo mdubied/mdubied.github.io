@@ -16,7 +16,7 @@ main:
   - title: "publications"
     url: /publications/
   - title: "cv"
-    url: /cv/
+    url: /files/paper1.pdf
   - title: "other projects"
     url: /other-projects/
 
