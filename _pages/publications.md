@@ -9,9 +9,9 @@ toc: false
 
 My publications can be found on my <a href="https://scholar.google.com/citations?user=o4rY6NcAAAAJ&hl=en&oi=ao" target="_blank">google scholar</a>.
 
-## published
+## peer-reviewed
 
-- M. Scott, **M. Dubied**, J. Pitt. November 2022. *Social Motives and Social Contracts in Cooperative Survival Games*. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE).
+- M. Scott, **M. Dubied**, J. Pitt. November 2022. *Social Motives and Social Contracts in Cooperative Survival Games*. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). <a href="https://link.springer.com/chapter/10.1007/978-3-031-20845-4_10" target="_blank">link</a>
 
 - **M. Dubied**, M. Y. Michelis, A. Spielberg, R. K. Katzschmann. April 2022. [*Sim-to-Real for Soft Robots using Differentiable FEM: Recipes for Meshing, Damping, and Actuation*](https://ieeexplore.ieee.org/abstract/document/9720966?casa_token=rFkH2qLiivcAAAAA:DgkWykXE9Lxcb757paS6N9yLoe1uz30WLC214_p3XN8sRTVcO24fTJMfs8SHtggxVoyFd5eK_g). IEEE Robotics and Automation Letters (RA-L).
 
@@ -19,7 +19,7 @@ My publications can be found on my <a href="https://scholar.google.com/citations
 
 ## under review
 
-- **M. Dubied**, A. Lahr, M. Zeilinger, J. Köhler. July 2025. *A Robust and Adaptive MPC Formulation for Gaussian Process Models*. Submitted to Automatica and available on arXiv.
+- **M. Dubied**, A. Lahr, M. Zeilinger, J. Köhler. July 2025. *A Robust and Adaptive MPC Formulation for Gaussian Process Models*. Submitted to Automatica and available on <a href="https://arxiv.org/abs/2507.02098" target="_blank">arXiv</a>.
 
 ---
 
