@@ -11,7 +11,7 @@ toc: false
 
   <!-- Avatar on the left -->
   <img src="/images/gct_2024_square.jpg" alt="Mathieu Dubied"
-       style="max-width:180px; border-radius:0; box-shadow:none;">
+       style="max-width:30%; height:auto; border-radius:0; box-shadow:none; flex:0 0 auto;">
 
   <!-- Info on the right -->
   <div>
