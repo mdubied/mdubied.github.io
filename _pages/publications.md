@@ -7,8 +7,6 @@ sidebar: false
 toc: false
 ---
 
-# publications
-
 My publications can be found on my <a href="https://scholar.google.com/citations?user=o4rY6NcAAAAJ&hl=en&oi=ao" target="_blank">google scholar</a>.
 
 ## published

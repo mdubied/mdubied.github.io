@@ -9,14 +9,13 @@
 
 
 main:
-  - title: "home"
-    url: /
   - title: "research"
     url: /research/
   - title: "publications"
     url: /publications/
   - title: "cv"
     url: /files/paper1.pdf
+    external: true
   - title: "other projects"
     url: /other-projects/
 
