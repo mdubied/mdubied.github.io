@@ -65,22 +65,22 @@ h1, h2, h3, h4, h5, h6,
 
 /* Hide site title in masthead */
 .masthead .site-title {
-  display: none !important;
+    display: none !important;
+}
+
+/* Hide site title in nav */
+.greedy-nav .site-title {
+    display: none !important;
 }
 
 /* Align nav links left */
 .greedy-nav .visible-links {
-  margin-left: 0;
-  justify-content: flex-start;
+    margin-left: 0;
+    justify-content: flex-start;
 }
 
 /* Make nav links not bold */
 .greedy-nav a,
 .greedy-nav .page-link {
-  font-weight: normal !important;
-}
-
-/* Hide site title in masthead */
-.greedy-nav .site-title {
-  display: none !important;
+    font-weight: normal !important;
 }
