@@ -11,15 +11,16 @@ My publications can be found on my <a href="https://scholar.google.com/citations
 
 ## peer-reviewed
 
-- M. Scott, **M. Dubied**, J. Pitt. November 2022. *Social Motives and Social Contracts in Cooperative Survival Games*. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). <a href="https://link.springer.com/chapter/10.1007/978-3-031-20845-4_10" target="_blank">link</a>
+- M. Scott, **M. Dubied**, J. Pitt. November 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-031-20845-4_10" target="_blank"><em>Social Motives and Social Contracts in Cooperative Survival Games</em></a>. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE).
 
-- **M. Dubied**, M. Y. Michelis, A. Spielberg, R. K. Katzschmann. April 2022. [*Sim-to-Real for Soft Robots using Differentiable FEM: Recipes for Meshing, Damping, and Actuation*](https://ieeexplore.ieee.org/abstract/document/9720966?casa_token=rFkH2qLiivcAAAAA:DgkWykXE9Lxcb757paS6N9yLoe1uz30WLC214_p3XN8sRTVcO24fTJMfs8SHtggxVoyFd5eK_g). IEEE Robotics and Automation Letters (RA-L).
+- **M. Dubied**, M. Y. Michelis, A. Spielberg, R. K. Katzschmann. April 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9720966?casa_token=rFkH2qLiivcAAAAA:DgkWykXE9Lxcb757paS6N9yLoe1uz30WLC214_p3XN8sRTVcO24fTJMfs8SHtggxVoyFd5eK_g" target="_blank"><em>Sim-to-Real for Soft Robots using Differentiable FEM: Recipes for Meshing, Damping, and Actuation</em></a>. IEEE Robotics and Automation Letters (RA-L).
 
 ---
 
 ## under review
 
-- **M. Dubied**, A. Lahr, M. Zeilinger, J. Köhler. July 2025. *A Robust and Adaptive MPC Formulation for Gaussian Process Models*. Submitted to Automatica and available on <a href="https://arxiv.org/abs/2507.02098" target="_blank">arXiv</a>.
+- **M. Dubied**, A. Lahr, M. Zeilinger, J. Köhler. July 2025. <a href="https://arxiv.org/abs/2507.02098" target="_blank"><em>A Robust and Adaptive MPC Formulation for Gaussian Process Models</em></a>. Submitted to Automatica and available on arXiv.
+
 
 ---
 
