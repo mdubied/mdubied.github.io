@@ -85,15 +85,13 @@ h1, h2, h3, h4, h5, h6,
     font-weight: normal !important;
 }
 
-/* Nuke the masthead site title everywhere */
-.masthead .site-title,
-.greedy-nav > a.site-title,
-#site-nav .site-title {
-  display: none !important;
+/* Center the nav links in the masthead */
+.greedy-nav .visible-links {
+  margin: 0 auto !important;
+  justify-content: center !important;
 }
 
-/* Pull the menu all the way to the left (no gap where the title was) */
-.greedy-nav .visible-links {
-  margin-left: 0 !important;
-  justify-content: flex-start;
+/* Optional: also center the container so items don't stick left */
+.greedy-nav {
+  justify-content: center !important;
 }
