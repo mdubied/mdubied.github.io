@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "home"
+title: ""
 permalink: /
-author_profile: false
+author_profile: true
 sidebar: false
 toc: false
 ---
-Short intro about you.
+# about
+
+I'm a first-year PhD researcher at the European Universtity Institute (EUI), supervised by Kevin Munger and Arnout van de Rijt.

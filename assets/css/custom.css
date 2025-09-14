@@ -1,0 +1,17 @@
+/* Make the author avatar rectangular + tidy up spacing */
+.author__avatar,
+.author__avatar img {
+  border-radius: 0 !important;          /* remove circle mask */
+  box-shadow: none !important;
+}
+
+.author__avatar img {
+  width: 100%;
+  height: auto;                          /* keep proportions */
+  object-fit: cover;                     /* fill container nicely */
+}
+
+/* Optional: slightly narrower sidebar for a clean look */
+.sidebar {
+  max-width: 280px;
+}
