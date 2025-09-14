@@ -13,13 +13,21 @@
 
 /* Optional: slightly narrower sidebar for a clean look */
 .sidebar {
-  max-width: 280px;
+  max-width: 240px;
 }
 
 /* ===== Fonts (site-wide) ===== */
 :root {
-  --font-body: "Literata", Georgia, "Times New Roman", serif;
-  --font-head: "Literata", Georgia, "Times New Roman", serif;
+    --font-body: "Literata", Georgia, "Times New Roman", serif;
+    --font-head: "Literata", Georgia, "Times New Roman", serif;
+}
+
+/* Ensure menu banner uses Literata */
+.masthead,
+.masthead a.site-title,
+.site-nav .page-link,
+.greedy-nav a {
+    font-family: var(--font-head);
 }
 
 /* Body and headings */
@@ -42,7 +50,7 @@ h1, h2, h3, h4, h5, h6,
 /* ===== Avatar: rectangular + no overlap ===== */
 .author__avatar { 
   width: 100%;
-  max-width: 280px;             /* prevent huge images in sidebar */
+  max-width: 240px;             /* prevent huge images in sidebar */
   margin: 0 0 1rem 0;
   position: relative;
   z-index: 1;
