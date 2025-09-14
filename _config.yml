@@ -23,7 +23,7 @@ repository               : "mdubied.github.io" # the name of your repository con
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gct_2024_square.png"
+  avatar           : "gct_2024_square.jpg"
   name             : "Mathieu Dubied"
   pronouns         : "he/him" # optional
   bio              : "PhD Researcher in CSS at EUI"
