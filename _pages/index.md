@@ -11,10 +11,9 @@ toc: false
 
 <img src="/images/gct_2024_square.jpg" alt="Mathieu Dubied" style="max-width:200px; border-radius:0; box-shadow:none; margin-bottom:1rem;">
 
-**Mathieu Dubied**  
-*he/him*  
-
-PhD Researcher in CSS at EUI  
+<strong>Mathieu Dubied</strong><br>
+<em>he/him</em><br>
+PhD Researcher in CSS at EUI<br>
 <a href="mailto:mathieu.dubied@eui.eu">mathieu.dubied@eui.eu</a>
 
 </div>
