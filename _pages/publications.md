@@ -19,7 +19,7 @@ My publications can be found on my <a href="https://scholar.google.com/citations
 
 ## under review
 
-- **M. Dubied**, P. Tiso, R. K. Katzschmann. November 2025 <a href="https://arxiv.org/abs/2511.01031" target="_blank"><em>AquaROM: An Optimisation Pipeline for Soft Swimmers Using Nonlinear Parametric Reduced Order Models*</em></a>. Submitted to the International Journal of Robotics Research and available on arXiv.
+- **M. Dubied**, P. Tiso, R. K. Katzschmann. November 2025 <a href="https://arxiv.org/abs/2511.01031" target="_blank"><em>AquaROM: An Optimisation Pipeline for Soft Swimmers Using Nonlinear Parametric Reduced Order Models</em></a>. Submitted to the International Journal of Robotics Research and available on arXiv.
 
 - **M. Dubied**, A. Lahr, M. Zeilinger, J. Köhler. July 2025. <a href="https://arxiv.org/abs/2507.02098" target="_blank"><em>A Robust and Adaptive MPC Formulation for Gaussian Process Models</em></a>. Submitted to Automatica and available on arXiv.
 
