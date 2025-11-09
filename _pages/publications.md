@@ -19,8 +19,9 @@ My publications can be found on my <a href="https://scholar.google.com/citations
 
 ## under review
 
-- **M. Dubied**, A. Lahr, M. Zeilinger, J. Köhler. July 2025. <a href="https://arxiv.org/abs/2507.02098" target="_blank"><em>A Robust and Adaptive MPC Formulation for Gaussian Process Models</em></a>. Submitted to Automatica and available on arXiv.
+- **M. Dubied**, P. Tiso, R. K. Katzschmann. November 2025 <a href="https://arxiv.org/abs/2511.01031" target="_blank"><em>AquaROM: An Optimisation Pipeline for Soft Swimmers Using Nonlinear Parametric Reduced Order Models*</em></a>. Submitted to the International Journal of Robotics Research and available on arXiv.
 
+- **M. Dubied**, A. Lahr, M. Zeilinger, J. Köhler. July 2025. <a href="https://arxiv.org/abs/2507.02098" target="_blank"><em>A Robust and Adaptive MPC Formulation for Gaussian Process Models</em></a>. Submitted to Automatica and available on arXiv.
 
 ---
 
@@ -29,6 +30,4 @@ My publications can be found on my <a href="https://scholar.google.com/citations
 - S. Šarenkapa, I. Guinaudeau, E. Deiss-Helbig, **M. Dubied**, R. Heiberger, T. Matthieß. *Measuring Discursive Constructions of Social Categories in the Press*. Presented at the European Political Science Association (EPSA) 2025 annual conference.
 
 - **M. Dubied**, B. Guinaudeau, K. Donnay, J. A. Tucker. *What Drives Toxic Comments on TikTok? Examining the Link Between Videos and Comments Using Machine Learning*.
-
-- **M. Dubied**, P. Tiso, R. K. Katzschmann. *AquaROM: An Optimisation Pipeline for Soft Swimmers Using Nonlinear Parametric Reduced Order Models*.
 
