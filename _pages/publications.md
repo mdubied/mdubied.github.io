@@ -17,16 +17,14 @@ My publications can be found on my <a href="https://scholar.google.com/citations
 
 - **M. Dubied**, M. Y. Michelis, A. Spielberg, R. K. Katzschmann. April 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9720966?casa_token=rFkH2qLiivcAAAAA:DgkWykXE9Lxcb757paS6N9yLoe1uz30WLC214_p3XN8sRTVcO24fTJMfs8SHtggxVoyFd5eK_g" target="_blank"><em>Sim-to-Real for Soft Robots using Differentiable FEM: Recipes for Meshing, Damping, and Actuation</em></a>. IEEE Robotics and Automation Letters (RA-L).
 
----
 
 ## under review
 
 - S. Šarenkapa, I. Guinaudeau, E. Deiss-Helbig, **M. Dubied**, R. Heiberger, T. Matthieß. <a href="https://osf.io/preprints/socarxiv/bmqxt_v1" target="_blank"><em>Detecting Social Categories in Multilingual Newspaper Corpora</em></a>. R&R Political Analysis.
 
-- **M. Dubied**, P. Tiso, R. K. Katzschmann. November 2025 <a href="https://arxiv.org/abs/2511.01031" target="_blank"><em>AquaROM: An Optimisation Pipeline for Soft Swimmers Using Nonlinear Parametric Reduced Order Models</em></a>. R&R IEEE Transactions on Robotics
+- **M. Dubied**, P. Tiso, R. K. Katzschmann. November 2025 <a href="https://arxiv.org/abs/2511.01031" target="_blank"><em>AquaROM: An Optimisation Pipeline for Soft Swimmers Using Nonlinear Parametric Reduced Order Models</em></a>. R&R IEEE Transactions on Robotics.
 
 
----
 
 ## work in progress
 
